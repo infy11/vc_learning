@@ -1,2 +1,2 @@
-learning git
-changed content in readme
+learning diff tool
+let's create a file with some difference
